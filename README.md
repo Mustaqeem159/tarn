@@ -34,7 +34,7 @@ on privacy or security.
 
 - Full Monero node integration
 - Modern, intuitive interface
-- Privacy by default — Tor/i2p support
+- Privacy by default: Tor/i2p support
 - Cross-platform desktop support (Linux, macOS, Windows)
 
 ## Status
