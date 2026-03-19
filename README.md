@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./logo.png" width="80" />
+  <img src="./assets/logo.png" width="80" />
   <h1>Tarn</h1>
   <p><strong>A modern Monero wallet that doesn't look like shit.</strong></p>
   <p>Privacy-focused. Beautiful UI. Open source.</p>
 
   <img src="https://img.shields.io/badge/status-in%20development-orange" />
-  <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <img src="https://img.shields.io/badge/license-GPL--3.0-blue" />
   <img src="https://img.shields.io/badge/monero-XMR-orange" />
 </div>
 
@@ -19,14 +19,14 @@ the Monero ecosystem without sacrificing privacy.
 
 ## Goals
 
-- 🔒 Full Monero node integration
-- 🎨 Clean modern interface
-- 👁️ Privacy by default — Tor/i2p support
-- 💻 Desktop first (Linux, macOS, Windows)
+- Full Monero node integration
+- Clean modern interface
+- Privacy by default — Tor/i2p support
+- Desktop first (Linux, macOS, Windows)
 
 ## Status
 
-> ⚠️ This project is in early development. 
+> This project is in early development. 
 > Not ready for real funds.
 
 ## Screenshots
@@ -40,5 +40,4 @@ PRs, feedback, and ideas welcome.
 
 ## License
 
-GNU 3.0
-
+[GPL-3.0](./LICENSE)
